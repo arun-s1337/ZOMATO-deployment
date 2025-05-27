@@ -23,7 +23,7 @@ In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** u
 ---
 
 ### 📂 GitHub Repo Link:  
-[**ZOMATO Clone DevOps Project**](#)
+git---------     https://github.com/arun-s1337/ZOMATO-deployment
 
 
 
